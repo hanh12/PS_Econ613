@@ -1,0 +1,64 @@
+Error in install.packages : Updating loaded packages
+[1] "number of students is"
+[1] 340823
+[1] "number of schools is"
+[1] 640
+[1] "number of programs is"
+[1] 33
+[1] "number of choices is "
+[1] 2773
+[1] "number of missing test score is"
+[1] 179887
+[1] "number of students applying to less than 6 schools is"
+[1] 17734
+   cutoff   quality  distance 
+294.23718 316.68978  27.17746 
+[1] 54.12556
+[1] 48.5386
+[1] 54.12556
+   cutoff   quality  distance 
+281.35659 304.58320  27.06413 
+[1] 49.57892
+[1] 43.82404
+[1] 49.57892
+   cutoff   quality  distance 
+272.68599 296.78969  26.17554 
+[1] 46.96337
+[1] 41.16625
+[1] 46.96337
+   cutoff   quality  distance 
+263.07662 288.57669  23.29201 
+[1] 45.1399
+[1] 39.2662
+[1] 45.1399
+   cutoff   quality  distance 
+250.08489 277.50407  28.17881 
+[1] 32.06955
+[1] 26.73123
+[1] 32.06955
+   cutoff   quality  distance 
+246.18031 274.07874  28.87473 
+[1] 31.44553
+[1] 26.23097
+[1] 31.44553
+  quality    cutoff  distance 
+252.25678 217.69741  25.77307 
+[1] 12.59507
+[1] 14.74552
+[1] 43.16027
+  quality    cutoff  distance 
+272.85984 242.75588  28.52113 
+[1] 17.58514
+[1] 23.54801
+[1] 48.29209
+  quality    cutoff  distance 
+301.65878 275.77211  31.25848 
+[1] 23.10912
+[1] 29.10207
+[1] 47.21292
+  quality    cutoff  distance 
+357.26416 337.07372  38.48389 
+[1] 35.1901
+[1] 39.37468
+[1] 46.2556
+
